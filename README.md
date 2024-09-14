@@ -1,3 +1,5 @@
 # Tanky
 ## Frameworks
-pygame
+```shell
+pip install pygame
+```
